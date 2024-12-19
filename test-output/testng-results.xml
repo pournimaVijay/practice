@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-27T08:40:34 IST" name="Default suite" finished-at="2024-11-27T08:41:03 IST" duration-ms="29516">
+    <groups>
+    </groups>
+    <test started-at="2024-11-27T08:40:34 IST" name="Default test" finished-at="2024-11-27T08:41:03 IST" duration-ms="29516">
+      <class name="launch">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:launch@5824a83d]" started-at="2024-11-27T08:40:34 IST" name="launchURL" finished-at="2024-11-27T08:40:40 IST" duration-ms="6506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="revenueCalculatorpage()[pri:1, instance:launch@5824a83d]" started-at="2024-11-27T08:40:40 IST" name="revenueCalculatorpage" finished-at="2024-11-27T08:40:44 IST" duration-ms="3404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- revenueCalculatorpage -->
+        <test-method signature="scrollToSliderSection()[pri:2, instance:launch@5824a83d]" started-at="2024-11-27T08:40:44 IST" name="scrollToSliderSection" finished-at="2024-11-27T08:40:47 IST" duration-ms="3031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollToSliderSection -->
+        <test-method signature="adjustSlider()[pri:3, instance:launch@5824a83d]" started-at="2024-11-27T08:40:47 IST" name="adjustSlider" finished-at="2024-11-27T08:40:55 IST" duration-ms="8040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adjustSlider -->
+        <test-method signature="updateTextField()[pri:4, instance:launch@5824a83d]" started-at="2024-11-27T08:40:55 IST" name="updateTextField" finished-at="2024-11-27T08:40:56 IST" duration-ms="1127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateTextField -->
+        <test-method signature="selectCPTCodes()[pri:5, instance:launch@5824a83d]" started-at="2024-11-27T08:40:56 IST" name="selectCPTCodes" finished-at="2024-11-27T08:40:58 IST" duration-ms="1610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCPTCodes -->
+        <test-method signature="validateSelectedTotalRecurringReimbursement()[pri:6, instance:launch@5824a83d]" started-at="2024-11-27T08:40:58 IST" name="validateSelectedTotalRecurringReimbursement" finished-at="2024-11-27T08:40:58 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSelectedTotalRecurringReimbursement -->
+        <test-method signature="validateAllTotalRecurringReimbursement()[pri:7, instance:launch@5824a83d]" started-at="2024-11-27T08:40:58 IST" name="validateAllTotalRecurringReimbursement" finished-at="2024-11-27T08:41:03 IST" duration-ms="5638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAllTotalRecurringReimbursement -->
+      </class> <!-- launch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
